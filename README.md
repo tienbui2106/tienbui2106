@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/tienbui2106/tienbui2106/main/svg/intro-typewriter.svg" alt="Animated Header" />
+</p>
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **tienbui2106/tienbui2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
